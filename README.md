@@ -1,5 +1,6 @@
 # MongoChat
 [![Build Status](https://travis-ci.org/mayurchoudhari/MongoChat.svg?branch=master)](https://travis-ci.org/mayurchoudhari/MongoChat)
+
 Simple chat application using nodejs and mongodb
 
 ##Requirements
@@ -10,11 +11,13 @@ These should be installed before continuing
   ```
 
 Its simple to use it. 
+
 Just run `npm install` to install dependencies
 
 Now start the server
 `node app.js`
 
 Future Update include:
+
 1. Gui for chat
 2. Support for latest version of node
