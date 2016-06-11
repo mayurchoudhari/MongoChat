@@ -7,7 +7,7 @@ Simple chat application using nodejs and mongodb
 These should be installed before continuing
   ```
   MongoDB @ 3.2
-  NodeJs @ 0.12.14
+  NodeJs @ >=0.12.14
   ```
 
 Its simple to use it. 
